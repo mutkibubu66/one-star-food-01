@@ -19,7 +19,8 @@ DEFAULT_OUTPUT_PATH = "/output/entry.txt"
 SENTENCE = (
     "One star: the gravity glued my luggage to the floor and the "
     "locals kept asking if I was 'from around here,' but the buttered "
-    "corn on the cob alone was worth the nine-light-year trip."
+    "corn on the cob alone was worth the "
+    "nine-light-year trip."
 )
 
 
